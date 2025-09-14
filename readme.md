@@ -36,7 +36,7 @@
 <a href="https://github.com/SUDIPTAPANDA61/S.sudipta_Panda_portfolio" target="_blank">
   <img src="https://img.shields.io/badge/Resume-Click%20Here-blue?style=for-the-badge&logo=readthedocs" />
 </a> 
-<a href="/docs/Sudipta_Panda_resume.pdf" target="_blank">
+<a href="/docs/Sudipta_Panda__resume.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Resume-Click%20Here-blue?style=for-the-badge&logo=readthedocs" />
 </a>  
 
@@ -81,4 +81,5 @@
 
 ### ✨ Motto  
 _"Keep building, keep learning — every line of code is a step closer to mastery."_  
+
 
