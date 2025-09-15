@@ -32,9 +32,9 @@
 
 ---
 
-### 📑 My Resume  
+### 📑 My Resume & Portfolio 
 <a href="https://github.com/SUDIPTAPANDA61/S.sudipta_Panda_portfolio" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-Click%20Here-blue?style=for-the-badge&logo=readthedocs" />
+  <img src="https://img.shields.io/badge/Portfolio-Website-blueviolet?style=for-the-badge&logo=vercel" />
 </a> 
 <a href="/docs/Sudipta_Panda__resume.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Resume-Click%20Here-blue?style=for-the-badge&logo=readthedocs" />
@@ -42,6 +42,7 @@
 <a href="https://SUDIPTAPANDA61.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Website-blueviolet?style=for-the-badge&logo=vercel" />
 </a>
+
 ---
 
 ### 🤝 Connect with Me  
@@ -83,6 +84,7 @@
 
 ### ✨ Motto  
 _"Keep building, keep learning — every line of code is a step closer to mastery."_  
+
 
 
 
