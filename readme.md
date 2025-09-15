@@ -75,11 +75,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SUDIPTAPANDA61&show_icons=true&locale=en&theme=radical" alt="SUDIPTAPANDA61" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SUDIPTAPANDA61&theme=radical" alt="SUDIPTAPANDA61" /></p>
+<p><img align="center" src="https://img.shields.io/badge/Portfolio-Website-blueviolet?style=for-the-badge&logo=vercel" alt="SUDIPTAPANDA61" /></p>
 
 ---
 
 ### ✨ Motto  
 _"Keep building, keep learning — every line of code is a step closer to mastery."_  
+
 
 
