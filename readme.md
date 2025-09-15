@@ -39,7 +39,9 @@
 <a href="/docs/Sudipta_Panda__resume.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Resume-Click%20Here-blue?style=for-the-badge&logo=readthedocs" />
 </a>  
-
+<a href="https://SUDIPTAPANDA61.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Website-blueviolet?style=for-the-badge&logo=vercel" />
+</a>
 ---
 
 ### 🤝 Connect with Me  
@@ -75,12 +77,13 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SUDIPTAPANDA61&show_icons=true&locale=en&theme=radical" alt="SUDIPTAPANDA61" /></p>
 
-<p><img align="center" src="https://img.shields.io/badge/Portfolio-Website-blueviolet?style=for-the-badge&logo=vercel" alt="SUDIPTAPANDA61" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SUDIPTAPANDA61&" alt="SUDIPTAPANDA61" /></p>
 
 ---
 
 ### ✨ Motto  
 _"Keep building, keep learning — every line of code is a step closer to mastery."_  
+
 
 
 
